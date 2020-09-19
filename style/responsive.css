@@ -1,0 +1,26 @@
+@media (max-width: 425px) {
+    h1 {
+        font-size: 18px;
+        margin-bottom: 0%;
+    }
+    
+    h2 {
+        font-size: 14px;
+    }
+
+    p {
+        font-size: 12px;
+    }
+
+    .card {
+        width: 80%;
+    }
+
+    .container1 {
+        flex-direction: column;
+    }
+    
+    .container2 {
+        flex-direction: column;
+    }
+}
